@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2f866c45.css",
-    "main.js": "/static/js/main.5d5ba63a.js",
+    "main.js": "/static/js/main.f5030908.js",
     "static/js/453.4f85f25a.chunk.js": "/static/js/453.4f85f25a.chunk.js",
     "static/media/why-choose-us-img.jpg": "/static/media/why-choose-us-img.afb2571022e4d5a42915.jpg",
     "static/media/couch.png": "/static/media/couch.7a344a6302c235396f60.png",
@@ -17,11 +17,11 @@
     "static/media/user.svg": "/static/media/user.7621a47e29a2c99048c21b2cf412c7c7.svg",
     "static/media/cross.svg": "/static/media/cross.f55a0e29baa16101e78afdaa658f3afb.svg",
     "main.2f866c45.css.map": "/static/css/main.2f866c45.css.map",
-    "main.5d5ba63a.js.map": "/static/js/main.5d5ba63a.js.map",
+    "main.f5030908.js.map": "/static/js/main.f5030908.js.map",
     "453.4f85f25a.chunk.js.map": "/static/js/453.4f85f25a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f866c45.css",
-    "static/js/main.5d5ba63a.js"
+    "static/js/main.f5030908.js"
   ]
 }
