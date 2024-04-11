@@ -4,7 +4,7 @@ import './css/bootstrap.min.css';
 import './css/tiny-slider.css';
 
 import './js/custom.js';
-import './js/bootstrap.bundle.min.js';
+// import './js/bootstrap.bundle.min.js';
 
 import { BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 
