@@ -22,7 +22,7 @@ function App() {
     <Router>
       <Navbar/>
       <Routes>
-          <Route exact path="/handcraft-react/" element={<Home/>}/>
+          <Route exact path="/handcraft-react" element={<Home/>}/>
           <Route exact path="/aboutus" element={<About/>}/>
           <Route exact path="/shop" element={<Shop/>}/>
           <Route exact path="/contactus" element={<Contact/>}/>
